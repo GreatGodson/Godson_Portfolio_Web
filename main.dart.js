@@ -59290,7 +59290,7 @@ A.UD.prototype={
 $0(){B.x.co(window," https://mobile.twitter.com/gizzy_lil","_blank")},
 $S:0}
 A.Ec.prototype={
-J(a,b){var s=null,r=t.w,q=b.N(r).f.a.a<=500?2.5:3,p=A.asi(s,s,new A.o7("assets/images/bg.jpeg",s,s)),o=A.e1(s,s,B.n,A.aC(168,25,25,35),s,s,s,s,s,s,s,s,s),n=t.p,m=A.b([A.c3("Welcome to my Tech Space!",s,s,b.N(r).f.a.a>=1024?A.al(b).V.c.wl(B.j,B.ae):A.al(b).V.f.wl(B.j,B.ae),s,s)],n)
+J(a,b){var s=null,r=t.w,q=b.N(r).f.a.a<=500?1.5:3,p=A.asi(s,s,new A.o7("assets/images/bg.jpeg",s,s)),o=A.e1(s,s,B.n,A.aC(168,25,25,35),s,s,s,s,s,s,s,s,s),n=t.p,m=A.b([A.c3("Welcome to my Tech Space!",s,s,b.N(r).f.a.a>=1024?A.al(b).V.c.wl(B.j,B.ae):A.al(b).V.f.wl(B.j,B.ae),s,s)],n)
 if(b.N(r).f.a.a<=700)m.push(B.tK)
 m.push(B.Gw)
 m.push(B.b8)
