@@ -59309,7 +59309,7 @@ J(a,b){var s=null,r=t.w,q=b.N(r).f.a.a<=500?1:3,p=A.asm(s,s,new A.o7("assets/ima
 if(b.N(r).f.a.a<=700)m.push(B.tK)
 m.push(B.Gy)
 m.push(B.b8)
-if(!(b.N(r).f.a.a<=700))m.push(A.oR(new A.c_(B.Be,A.c4("I am a technically driven problem solver with a bachelor's degree in computer science. I am building the future of africa and the world, while leveraging on my technical experience and exploring world-class projects in the fintech industry and many more industries.",s,s,b.N(r).f.a.a>=1024?A.al(b).V.f.a_Q(B.w,20,B.ae):A.al(b).V.ch.wl(B.w,B.ae),s,s),s),1))
+if(!(b.N(r).f.a.a<=700))m.push(A.oR(new A.c_(B.Be,A.c4("I am a technical-driven mobile application developer, leveraging my experience and technical skills, with three years of experience in software engineering, and two years of experience building mobile applications with the flutter toolkit. I have built solutions in industries ranging from e-commerce, Ed-tech, and  Fin-tech. I co-lead the Tradr(Telioce), mobile team, to build a scalable e-commerce mobile application. Building the future of africa and the world.",s,s,b.N(r).f.a.a>=1024?A.al(b).V.f.a_Q(B.w,20,B.ae):A.al(b).V.ch.wl(B.w,B.ae),s,s),s),1))
 if(b.N(r).f.a.a<=500)m.push(A.oR(new A.c_(B.aE,A.c4("Building the future of africa and the world, leveraging on my technical experience and exploring world-class projects in the fintech industry and many more industries.",s,s,A.al(b).V.x.fh(B.w),s,s),s),1))
 m.push(A.acb(B.Nb,new A.UG(),A.ahw(s,s,B.bf,s,s,s,s,s,s,s,B.Bg,s,s,s,s,s,s,s)))
 return new A.o6(q,A.qz(B.bG,A.b([new A.uT(p,B.kG,s),o,new A.c_(B.Bf,A.dK(m,B.ac,B.FO),s)],n),B.tN),s)}}
